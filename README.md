@@ -1,4 +1,7 @@
-Note: Be sure to read this before using the PC, as it is very buggy, and has many issues. If you find any new issues, please let me know and I'll fix it as soon as possible!
+UPDATE: I've added some new stuff to Gfgg PC 8.2. Programs are now twice as big, as I updated the Program Counter to 4-bit, allowing 16 BYTE PROGRAMS! I've also cleaned some stuff up, and there is more to be planned!
+
+
+Note: Be sure to read this before using the PC, as it is very buggy, and has many issues. If you find any new issues, please let me know and I'll fix it as soon as possible! I DID NOTICE THAT THE HEXADECIMAL CODE DOES NOT RELATE WITH THE GUIDEBOOK. I WILL FIX THIS REALLY QUICKLY. IF YOU WANT AN INSTRUCTION, JUST CYCLE THROUGH HEXADECIMAL NUMBERS TO FIND YOUR INSTRUCTION. I AM VERY SORRY AND I WILL FIX IT SOON
 
 
 
