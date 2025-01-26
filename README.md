@@ -35,8 +35,8 @@ I don't really have a guide, but I'll try my best here:
 
 Yes, although this currently has many issues, I do want to make this more powerful. I know there's a lot missing, but I will take my time and learn more about this. Here are some plans on what I want to at least get working currently.
 
-- Increase PC to 4-Bit (16 Byte programs)
 - Get RAM working (I'll try 4 Bytes of RAM first, but I may have to decrease it if issues occur)
+- Create instructions using ALU flags (Turing Complete, perhaps?)
 - And more in the future..
 
 I know it's complicated, but I will take time learning more to make this more user-friendly. At this stage, I'm just trying to get feedback and reviews.
