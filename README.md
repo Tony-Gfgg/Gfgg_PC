@@ -5,11 +5,6 @@ Note: Be sure to read this before using the PC, as it is very buggy, and has man
 
 This is a project to build my own custom computer from scratch. It runs in Logisim Evolution, made out of basic circuits, and runs via a custom assembly language (BARELY). Although I built this computer myself, I did get help from many people. I will list them at the end of this.!
 
-Diagram:
-
-[Untitled](https://github.com/user-attachments/assets/6d7a82db-ccef-435b-8667-c25d6694120f)
-
-
 - I downloaded the file, how do I open it?
 
 In order to use this, you need Logisim Evolution. If you don't, you can find it on Github. Once you open the file in Logisim, you'll be in a circuit called "Gfgg PC 8". Just zoom out, and you should see it.
